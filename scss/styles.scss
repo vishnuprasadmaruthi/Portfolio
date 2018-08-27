@@ -470,7 +470,7 @@ footer {
     text-align: center;
     border-bottom: 1px solid $border;
 
-    h2, ul {
+    h2 {
         color: $heading;
     }
 }
@@ -528,7 +528,7 @@ footer {
         margin: 0 0 15px 0;
     }
 
-    p {
+    p, ul {
         color: $text;
         font-size: 0.9em;
         margin: 0;
